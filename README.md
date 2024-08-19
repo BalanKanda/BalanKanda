@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BalanKanda, I am Software Engineering.
+- 👋 Hi, I’m @BalanKanda, I am a Software Engineer.
 - 👀 Currenlty working in IOS development
 - 🌱 I’m currently learning Xcode and Swift
 - 💞️ I’m looking to collaborate on IOS development projects
